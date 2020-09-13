@@ -66,5 +66,3 @@ https://pub.dev/packages/uhf_plugin
         });
       }
    ```
-![alt text](https://github.com/amorenew/uhf_rt510_plugin/raw/master/sample1.png)
-
