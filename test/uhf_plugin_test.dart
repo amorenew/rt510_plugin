@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:uhf_rt510_plugin/uhf_rt510_plugin.dart';
+import 'package:rt510_plugin/uhf_rt510_plugin.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('uhf_plugin');

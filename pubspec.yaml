@@ -1,7 +1,7 @@
 name: rt510_plugin
 description: A flutter plugin for Barcode and UHF RT510 to read UHF Cards.
 version: 0.0.1
-homepage: https://github.com/amorenew/uhf_rt510_plugin.git
+homepage: https://github.com/amorenew/rt510_plugin.git
 
 environment:
   sdk: ">=2.7.2 <3.0.0"
